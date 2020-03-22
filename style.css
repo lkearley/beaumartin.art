@@ -2,3 +2,17 @@
     border: none;
     outline: none;
   }
+
+#headshot {
+    height: 25%;
+    width: 25%;
+}
+
+.img-thumbnail {
+    border-radius: 25%;
+    border: 0;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
